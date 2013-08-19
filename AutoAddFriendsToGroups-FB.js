@@ -1,7 +1,7 @@
 /* HTML/JavaScript Page Status = "Protected" */
-/* AFKPP v13.8 ® - Auto Add Friends to the Group */
+/* AFKPP v13.8 Â® - Auto add Friends to the Group */
 /* Des and Mod by Sang Koi */
-/* Copyright © 2013. All Rights Reserved. */
+/* Copyright Â© 2013. All Rights Reserved. */
 /* https://www.facebook.com/SaCoQN */
 /* Like & Share Page: https://www.facebook.com/KenhPhanPhoi.Co */
 
